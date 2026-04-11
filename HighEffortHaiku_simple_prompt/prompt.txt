@@ -1,0 +1,2 @@
+Make all the required changes to implement Conjured items. Make sure to follow the instructions in the readme and requirement files.
+Stay in the folder 'HighEffortHaiku_simple_prompt'. Everything you need is in here. Do not search for information elsewhere.
