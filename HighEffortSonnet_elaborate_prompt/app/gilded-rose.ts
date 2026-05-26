@@ -54,7 +54,7 @@ function updateBackstagePass(item: Item, rate: number = 1): void {
 function updateItem(item: Item): void {
   const base = baseName(item.name);
   const rate = qualityRate(item.name);
-
+  
   if (base === SULFURAS) return;
   if (base === AGED_BRIE) return updateAgedBrie(item, rate);
   if (base === BACKSTAGE_PASS) return updateBackstagePass(item, rate);
